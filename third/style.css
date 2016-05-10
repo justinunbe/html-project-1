@@ -1,0 +1,50 @@
+.header {
+  height: 11vh;
+  width: 100%;
+  background-color: lightgray;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.section_one {
+  height: 10vh;
+  width: 10%;
+  background-color: #4B97DF;
+
+
+}
+
+.section_two {
+  height: 26vh;
+  width: 100%;
+  background-color: white;
+  padding-left: 25px;
+  padding-top: 20px;
+}
+
+p {
+  font-size: 27px;
+}
+
+.section_three {
+  height: 14vh;
+  width: 100%;
+  background-color: #4B97DF;
+}
+.section_four {
+  height: 14vh;
+  width: 100%;
+  background-color: #50E3C2;
+}
+
+.section_five {
+  height: 15vh;
+  Width: 100%;
+  background-color: #B8E986;
+}
+
+.section_six {
+  height: 14vh;
+  Width: 100%;
+  background-color: #F8E71C;
+}

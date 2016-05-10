@@ -1,0 +1,32 @@
+/*body {
+  background-color: #50E3C2
+}
+*/
+
+
+.float-left {
+  height:100vh ;
+  width: 33.3%;
+  background-color:#4A90E2 ;
+  float: left;
+}
+.center-section {
+  height: 100vh;
+  width: 33.3%;
+  background-color:#50E3C2 ;
+  float:left;
+}
+
+.float-right {
+  height: 70vh ;
+  width: 33.3%;
+  background-color:#B8E986 ;
+  float: right;
+
+}
+.footer {
+  height: 30vh;
+  width: 33.3%;
+  background-color:#D0022B ;
+  float: right;
+}
